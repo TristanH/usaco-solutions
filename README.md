@@ -9,6 +9,8 @@ Please don't mind the poor quality of code, it was my first real experience with
 
 Feel free to mention all errors/problems/ineffeciencies. As far as I know, all of these solutions work in the needed time.
 
+Obviously don't cheat and use these as your own, but compare or grab some hints if you really need them!
+
 The solutions currently only go up to section 3.2, but I may decide to get back into contest problems later. 
 
 I would definitely be open to others uploading their solutions to later problems, so let me know!
